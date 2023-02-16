@@ -169,5 +169,4 @@ The recognizable commands by the interpreter are the following:
 
 ## Author
 
-Winston Ofugara <eofugara@gmail.com>
-Kudra Dube <kudradybe@gmail.com>
+Yonas Leykun
